@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Domains>
+  <Domain name="ドメインその1">
+    <Files>
+      <File name="XML.csv">
+        <item name="AAA"  value="true" />
+        <item name="BBB"  value="true"/>
+        <item name="CCC"  value="false"/>
+      </File>
+    </Files>
+  </Domain>
+  <Domain name="ドメインその2">
+    <Files>
+      <File name="HOGE">
+        <item name="XXX"  value="true" />
+        <item name="YYY"  value="false"/>
+        <item name="ZZZ"  value="true"/>
+      </File>
+    </Files>
+  </Domain>
+</Domains>
